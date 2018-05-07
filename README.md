@@ -3,7 +3,7 @@
 # 使用
 
 ```
-cd cnki
+cd cnki_spider
 
 python spider.py key_word
 ```
